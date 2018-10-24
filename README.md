@@ -20,8 +20,4 @@
 			- <em>belongs_to</em> : Un commentaire appartient à un utilisateur et à un commentaire</li>
 		</ul></p>
 
-<p>Ce programme a été fait avec rails.
-Il utilise toutes les gems de RAILS par défaut, plus celle de FAKER qui permet d'avoir des données dans la base.</p>
 
-
-* ...
